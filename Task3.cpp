@@ -1,6 +1,3 @@
-// Omar Ayman Saad Ali  20210261
-// Abdullah Mahmoud Amin Ahmed  20211062
-
 #include <bits/stdc++.h>
 using namespace std;
 //a func to find the specific length of our string using pointers
